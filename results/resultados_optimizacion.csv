@@ -1,0 +1,4 @@
+Modelo,Recall_Optimizado,Mejores_Parametros
+Regresion_Logistica,0.9764705882352942,"{'modelo__C': 1, 'modelo__class_weight': 'balanced'}"
+Random_Forest,0.9705882352941178,"{'class_weight': 'balanced', 'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}"
+SVM,0.9647058823529411,"{'estimator__modelo__C': 100, 'estimator__modelo__gamma': 'scale', 'estimator__modelo__kernel': 'rbf'}"
